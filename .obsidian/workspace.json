@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92b9c9cbe5baa8aa",
+        "id": "49306b5d2a54a4a5",
         "type": "tabs",
         "children": [
           {
-            "id": "e94e45d95fd7a7be",
+            "id": "fa1a0ec4d9e8d931",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "UE导入资产.md",
-                "mode": "source",
-                "source": false
+                "file": "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-52-36.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UE导入资产.md",
+                "file": "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-52-36.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UE导入资产.md",
+                "file": "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-52-36.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UE导入资产.md"
+                "file": "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-52-36.png"
               }
             }
           }
@@ -138,40 +136,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "command-palette:開啟命令面板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
       "templates:插入模板": false
     }
   },
-  "active": "e94e45d95fd7a7be",
+  "active": "9bcb558c135d3238",
   "lastOpenFiles": [
-    "Procedural-Content-Generation/PCG圖表.md",
     "地編-頂點繪製-多材質.md",
     "UE导入资产.md",
-    "案例/引導UI.md",
-    "LinearSpace/導論與目錄.md",
-    "Pasted image 20241006132340.png",
-    "UI/UI.md",
-    "案例",
-    "assets/Pasted image 20241006131248.png",
-    "assets/iShot_2024-10-06_12.06.43.png",
-    "assets/iShot_2024-10-06_13.19.52.png",
-    "Pasted image 20241006131954.png",
-    "UI",
-    "LinearSpace",
+    "Procedural-Content-Generation/模型表面.md",
+    "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-52-36.png",
+    "Procedural-Content-Generation/PCG圖表.md",
+    "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-29-50.png",
+    "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-17-58.png",
+    "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-17-40.png",
+    "Snipaste_2024-10-06_15-17-40 1.png",
+    "Procedural-Content-Generation/spline.md",
     "Procedural-Content-Generation/構造PCG關係.canvas",
     "Procedural-Content-Generation/初識.md",
-    "Procedural-Content-Generation/spline.md",
+    "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-17-24.png",
+    "Procedural-Content-Generation/assets/Snipaste_2024-10-06_15-16-19.png",
+    "案例/引導UI.md",
+    "案例",
+    "assets/iShot_2024-10-06_13.19.52.png",
+    "assets/iShot_2024-10-06_12.06.43.png",
+    "assets/Pasted image 20241006131248.png",
+    "UI/UI.md",
+    "UI",
+    "LinearSpace/導論與目錄.md",
+    "LinearSpace",
     "Welcome.md",
-    "assets/Pasted image 20241004151106.png",
     "assets",
-    "assets/Pasted image 20241004153008.png",
-    "Pasted image 20241004152959.png",
-    "assets/Pasted image 20241004152752.png",
-    "assets/Pasted image 20241004152709.png",
     "Procedural-Content-Generation/assets",
     "Procedural-Content-Generation"
   ]
