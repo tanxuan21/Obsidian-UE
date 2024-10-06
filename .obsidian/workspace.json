@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "39c15e343eb80476",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b9c9cbe5baa8aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94e45d95fd7a7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UE导入资产.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a23b1bc45aa998b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e65be310dcea3eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bcb558c135d3238",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7349c3cf86c0787a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "755c614daa5de4b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "01616222b16a9ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c2b69fd08f00dc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d981d29e7e5f19ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UE导入资产.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93f6a9f3945af1eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UE导入资产.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "168e998b310aa99a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0879aa21c16f0425",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UE导入资产.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "command-palette:開啟命令面板": false,
+      "templates:插入模板": false
+    }
+  },
+  "active": "e94e45d95fd7a7be",
+  "lastOpenFiles": [
+    "Procedural-Content-Generation/PCG圖表.md",
+    "地編-頂點繪製-多材質.md",
+    "UE导入资产.md",
+    "案例/引導UI.md",
+    "LinearSpace/導論與目錄.md",
+    "Pasted image 20241006132340.png",
+    "UI/UI.md",
+    "案例",
+    "assets/Pasted image 20241006131248.png",
+    "assets/iShot_2024-10-06_12.06.43.png",
+    "assets/iShot_2024-10-06_13.19.52.png",
+    "Pasted image 20241006131954.png",
+    "UI",
+    "LinearSpace",
+    "Procedural-Content-Generation/構造PCG關係.canvas",
+    "Procedural-Content-Generation/初識.md",
+    "Procedural-Content-Generation/spline.md",
+    "Welcome.md",
+    "assets/Pasted image 20241004151106.png",
+    "assets",
+    "assets/Pasted image 20241004153008.png",
+    "Pasted image 20241004152959.png",
+    "assets/Pasted image 20241004152752.png",
+    "assets/Pasted image 20241004152709.png",
+    "Procedural-Content-Generation/assets",
+    "Procedural-Content-Generation"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"05807edba0aceb04","type":"group","x":360,"y":-100,"width":320,"height":430,"label":"PCG-Volum的組件"},
+		{"id":"2201e7ff0064fdad","type":"text","text":"# PCG-component\n\n## 添加\n\n1. 大綱視圖選擇剛才添加的PCG-volum\n2. 細節面板，點擊PCG-component\n3. 在instance屬性裏，選擇創建的PCG圖表","x":400,"y":-50,"width":250,"height":180},
+		{"id":"6f3f53ddcf82bd6a","type":"text","text":"其他組件...","x":400,"y":160,"width":250,"height":60},
+		{"id":"e47309b27361e10a","type":"text","text":"# PCG-Graph\n\n## 添加\n\n1. 内容瀏覽器，右鍵，找到PCG\n2. 添加PCG圖表\n## 含義\n\nPCG圖表就是PCG藍圖","x":-80,"y":-50,"width":250,"height":180},
+		{"id":"730b5d288d091550","type":"text","text":"# PCG-Volum\n\n## 添加\n1. 使用 selection mode ，打開 Place Actors window,\n2. 使用 Search Classes box找到 PCG Volum 拖入地圖\n## 作用\n\n是PCG控制的範圍","x":360,"y":-400,"width":250,"height":180}
+	],
+	"edges":[
+		{"id":"958d4b80f2f9df15","fromNode":"e47309b27361e10a","fromSide":"right","toNode":"2201e7ff0064fdad","toSide":"left","label":"用於構造"},
+		{"id":"a68a8e6db74a9191","fromNode":"730b5d288d091550","fromSide":"bottom","toNode":"05807edba0aceb04","toSide":"top"}
+	]
+}
